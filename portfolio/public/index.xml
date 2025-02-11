@@ -2,10 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael&#39;s Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:63201/</link>
     <description>Recent content on Michael&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2025 12:37:39 -0500</lastBuildDate>
+    <atom:link href="http://localhost:63201/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:63201/contact/</link>
+      <pubDate>Tue, 11 Feb 2025 12:37:39 -0500</pubDate>
+      <guid>http://localhost:63201/contact/</guid>
+      <description>&lt;p&gt;This is my contact page&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:63201/resume/</link>
+      <pubDate>Tue, 11 Feb 2025 12:35:30 -0500</pubDate>
+      <guid>http://localhost:63201/resume/</guid>
+      <description>&lt;p&gt;This is my resume:&#xA;Michael Ren&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;86 18519590422 | &lt;a href=&#34;mailto:michaelrendudu@gmail.com&#34;&gt;michaelrendudu@gmail.com&lt;/a&gt; | Philadelphia, PA&#xA;EDUCATION&#xA;University of Pennsylvania&#x9;Philadelphia, PA&#xA;B.S.E in Computer Engineering, Minor in Statistics&#x9;Expected May 2027&#xA;·&#x9;GPA: 3.8 / 4.0; Activities: Penn Electric Racing (Engineer), Pi Kappa Alpha, Wharton Investment and Trading Group (TMT)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;PROFESSIONAL EXPERIENCE&#xA;Grey Wind Capital&#x9;New York, NY&#xA;Investment Banking Summer Analyst&#x9;Jun 2024 – Aug 2024&#xA;•&#x9;Screened 100+ private companies in niche business services sectors, analyzed target business models, customer concentration, cash flow stability, and ease of management, compiled seller historical financials for valuation analysis&#xA;•&#x9;Select Transaction Experience: M&amp;amp;A Transaction between a Trucking and a Storm Response Services Company&#xA;o&#x9;Assessed growth tailwinds, identified and quantified potential synergies, and compiled a 30-page deal pitch&#xA;o&#x9;Performed commercial, operating, and credit risk assessment on the transaction, and highlighted key mitigants&#xA;o&#x9;Consolidated historical client P&amp;amp;Ls, analyzed EBITDA adjustments, and conducted M&amp;amp;A valuation analysis&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:63201/about/</link>
+      <pubDate>Tue, 11 Feb 2025 12:23:43 -0500</pubDate>
+      <guid>http://localhost:63201/about/</guid>
+      <description>&lt;p&gt;This is my About page.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
